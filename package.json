@@ -23,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fullstacktraining/mean-stack-hero.git"
+    "url": "git+https://github.com/suryaghub/hotelsappmean.git"
   },
-  "author": "Full Stack Training",
+  "author": "Su",
   "keywords": [
     "mean"
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fullstacktraining/mean-stack-hero/issues"
+    "url": "https://github.com/suryaghub/hotelsappmean.git"
   },
-  "homepage": "https://github.com/fullstacktraining/mean-stack-hero#readme"
+  "homepage": "https://github.com/suryaghub/hotelsappmean.git"
 }
